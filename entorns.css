@@ -1,0 +1,57 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p#bd1{
+    font-weight: 500;
+    color: crimson;
+    font-size: 23pt;
+}
+p#ent{
+    font-weight: 500;
+    color:rgb(10, 228, 119);
+    font-size: 23pt;
+    font-weight: bold;
+}
+p#fol{
+    font-weight: 400;
+    color: rgb(19, 2, 2);
+    font-size: 18pt;
+    font-weight: bold;
+}
+p#prog{
+    font-size: 22pt;
+    color: wheat;
+    font-weight: bold;
+}
+p#sist{
+    font-size: 14pt;
+    color:navy;
+    font-weight: bold;
+}
+p#llmm{
+    font-size: 16pt;
+    color: wheat;
+    font-weight: bold;
+}
+a{
+    color: rgb(192, 209, 41);
+    font-weight: bold;
+}
+a:visited{
+    color: seagreen;
+    font-weight: bold;
+}
+
+a:hover{
+    font-size: 35pt;
+    color: yellow;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+a:active{
+    color: mediumspringgreen;
+    text-decoration: solid;
+    font-weight: bold;
+}
